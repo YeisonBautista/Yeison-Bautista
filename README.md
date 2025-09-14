@@ -107,9 +107,6 @@
 
 ### **🛠️ Herramientas & Entornos**
 <p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" width="50px" alt="Git"/>
-  </a>
   &nbsp;&nbsp;
   <a href="https://github.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="50px" alt="GitHub"/>
