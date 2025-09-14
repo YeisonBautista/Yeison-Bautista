@@ -48,11 +48,7 @@
 ---
 
 ## 🤝 Conecta conmigo
-- 💼 [LinkedIn](https://www.linkedin.com/in/yeison-bautista-35a6a8270/)  
-- 🌐 [Portfolio](https://tuportfolio.com)  
-- 📧 [Email](mailto:yeisonbaur123@gmail.com)  
-
-<div align="center">
+<div align="rigth">
 <a href="https://github.com/YeisonBautista" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
