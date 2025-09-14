@@ -48,7 +48,7 @@
 ---
 
 ## 🤝 Conecta conmigo
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/yeison-bautista-35a6a8270/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/yeison-bautista-35a6a8270/)  
 - 🌐 [Portfolio](https://tuportfolio.com)  
 - 📧 [Email](mailto:yeisonbaur123@gmail.com)  
 
