@@ -36,14 +36,14 @@
 - 📌 [Gestor de Finanzas Personales](https://github.com/tuusuario/proyecto2) – Registro de gastos/ingresos con reportes.  
 - 📌 [Mini e-commerce](https://github.com/tuusuario/proyecto3) – Carrito de compras y base de datos de usuarios.  
 
-*(Agrega capturas o links a deploy si los tienes)*
+
 
 ---
 
 ## 📊 Estadísticas
-| ![Yeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=YEISON BAUTISTA&show_icons=true&theme=tokyonight) | ![Yeison GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YEISON BAUTISTA&theme=tokyonight) |
+| ![Yeison's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeisonBautista&show_icons=true&theme=tokyonight) | ![Yeison GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YeisonBautista&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YEISON BAUTISTA&layout=compact&theme=tokyonight) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YEISON BAUTISTA=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YeisonBautista&layout=compact&theme=tokyonight) | ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YeisonBautista=tokyonight) |
 
 ---
 
