@@ -133,7 +133,7 @@
 
 <div align="center">
 
-[![Readme Card](https://github.com/YeisonBautista/TitanFit.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeisonBautista&repo=Gestor-Finanzas&theme=tokyonight&hide_border=true)](https://github.com/YeisonBautista/Gestor-Finanzas)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YeisonBautista&repo=Gestor-Finanzas&theme=tokyonight&hide_border=true)](https://github.com/YeisonBautista/Gestor-Finanzas)
 
 </div>
